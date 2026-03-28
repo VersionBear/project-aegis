@@ -211,10 +211,6 @@ python -m unittest
 - Review list changes carefully since allowlists can bypass review/block outcomes.
 - The bot performs network resolution of URLs, so set reasonable outbound restrictions if you operate in a tightly controlled environment.
 
-## Support
-
-If Project Aegis helps your community, please consider supporting its owner, itssljk, at [ko-fi.com/itssljkcom#](https://ko-fi.com/itssljkcom#).
-
 ## Limitations
 
 - Like any moderation bot, it can still produce false positives and false negatives.
